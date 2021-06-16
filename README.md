@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![image](https://user-images.githubusercontent.com/86001864/122233271-1e3c4b80-cee6-11eb-8977-60cd3284d214.png), I'm Minh Luan</h1>
+<h1 align="center">Hi !, I'm Minh Luan</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **ReactJS, Spring Boot**
