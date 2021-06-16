@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gia Bao</h1>
+<h1 align="center">Hi 👋, I'm Minh Luan</h1>
 <h3 align="center">A passionate frontend and backend developer from FPTU</h3>
 
-- 🌱 I’m currently learning **ReactJS, Spring Boot**
+- 🌱 I’m currently learning **NUnit**
 
-- 📫 How to reach me **trangiabao.it.work@gmail.com**
+- 📫 How to reach me **luanhua8888@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
