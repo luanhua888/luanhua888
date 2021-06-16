@@ -19,8 +19,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> <a href="https://spring.io/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+            alt="mysql" width="40" height="40" /> <a href="https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit" target="_blank"> <img
+            src="https://pluralsight2.imgix.net/paths/images/nunit-261ab03561.png" alt="nunit" width="40" height="40" />
     </a> </p>
 
 <img style="width: 100% !important; max-width: none !important;"
