@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh Luan</h1>
 <h2 align="center">A Software developer from FPTU</h2>
-<h3 align="center">Goal to become TESTER LEADER in the next 3 years </h3>
+<h3 align="center">Goal to become PROJECT MANAGE in the next 3 years </h3>
 
 
 - 🌱 I’m currently learning **NUnit**
