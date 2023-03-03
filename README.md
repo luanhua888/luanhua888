@@ -25,5 +25,5 @@
             src="https://pluralsight2.imgix.net/paths/images/nunit-261ab03561.png" alt="nunit" width="40" height="40" />
     </a> </p>
 
-<img style="width: 100% !important; max-width: none !important;"
+<img style="width: 100% !important; max-width: none !important; align-item: center;"
     src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
